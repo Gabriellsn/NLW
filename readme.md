@@ -1,6 +1,6 @@
 # NLW eSports - trilha explorer
 
-![preview](\.github\preview.png)
+![preview](./.github/preview.png)
 
 projeto construido no evento Next Level Week da Rockeatseat.
 
